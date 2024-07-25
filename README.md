@@ -1,5 +1,7 @@
 # CancerVision: Breast Cancer Detection using Deep Learning
 ## Developed by Ansh Sharma and Anshika Jain
+![final logo CancerVision](https://github.com/user-attachments/assets/c1324b6f-7f7e-4909-9d80-0c66d62611ef)
+
 
 
 ## Overview
@@ -44,6 +46,9 @@ Our CNN architecture consists of several convolutional layers followed by fully 
 
 
 ![Screenshot](https://github.com/user-attachments/assets/410cdf1b-8925-4e23-a3f9-14d21e1e5ba7)
+# Deployement
+## The webpage is fully deployed on Replit [Click here for deployed Version](https://replit.com/@anshsharmacse/CancerVision-Breast-Cancer-detection-using-Machine-learning)
+
 
 
 
