@@ -36,7 +36,7 @@ We used the publicly available **Breast Cancer Histopathological Database** for 
 
 ## Model Details
 
-Our CNN architecture consists of several convolutional layers followed by fully connected layers. 
+Our CNN architecture consists of many convolutional layers followed by fully connected layers. 
 
 ![cnn_architecture](https://github.com/user-attachments/assets/ee297d9f-70d8-402c-9988-4e1870b7959e)
 
@@ -46,7 +46,7 @@ Our CNN architecture consists of several convolutional layers followed by fully 
 
 
 ![Screenshot](https://github.com/user-attachments/assets/410cdf1b-8925-4e23-a3f9-14d21e1e5ba7)
-# Deployement
+# Deployement 
  The webpage is fully deployed on Replit [Click here for deployed Version](https://replit.com/@anshsharmacse/CancerVision-Breast-Cancer-detection-using-Machine-learning)
 
 # Credits
