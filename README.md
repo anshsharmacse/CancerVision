@@ -47,7 +47,11 @@ Our CNN architecture consists of several convolutional layers followed by fully 
 
 ![Screenshot](https://github.com/user-attachments/assets/410cdf1b-8925-4e23-a3f9-14d21e1e5ba7)
 # Deployement
-## The webpage is fully deployed on Replit [Click here for deployed Version](https://replit.com/@anshsharmacse/CancerVision-Breast-Cancer-detection-using-Machine-learning)
+ The webpage is fully deployed on Replit [Click here for deployed Version](https://replit.com/@anshsharmacse/CancerVision-Breast-Cancer-detection-using-Machine-learning)
+
+# Credits
+## [Ansh Sharma](Anshsharmacse@gmail.com)
+## [Anshika Jain](anshika.jain308@gmail.com)
 
 
 
