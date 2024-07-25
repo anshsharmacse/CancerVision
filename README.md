@@ -1,6 +1,6 @@
-# CancerVision: Breast Cancer Detection
+# CancerVision: Breast Cancer Detection using Deep Learning
+## Developed by Ansh Sharma and Anshika Jain
 
-!C:\Users\HP\Downloads\Cancervision logo.jpg
 
 ## Overview
 
@@ -29,10 +29,23 @@ CancerVision is an AI-based breast cancer detection system that achieves an impr
 
 ## Dataset
 
-We used the publicly available **Breast Cancer Histopathological Database** for training and validation. You can find the dataset here.
+We used the publicly available **Breast Cancer Histopathological Database** for training and validation. You can find the datasets here 
+[Datasets](https://drive.google.com/drive/folders/1xkwpecAsxVUbS_o8Fvbj36mv88G-WtsP?usp=sharing)
 
 ## Model Details
 
-Our CNN architecture consists of several convolutional layers followed by fully connected layers. For more details, refer
+Our CNN architecture consists of several convolutional layers followed by fully connected layers. 
+
+![cnn_architecture](https://github.com/user-attachments/assets/ee297d9f-70d8-402c-9988-4e1870b7959e)
+
+# Webpage linking with Model using API
+- **Graphical User Interface**: We created a webpage for the users to upload images and test their results seamlessly.
+- **Easy to Operate**: Simple API for inference on new mammograms.
+
+
+![Screenshot](https://github.com/user-attachments/assets/410cdf1b-8925-4e23-a3f9-14d21e1e5ba7)
+
+
+
 
 
